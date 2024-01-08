@@ -5,7 +5,7 @@
 |----------|----------|----------|----------|
 |[Predict-then-optimize or predict-and-optimize? An empirical evaluation of cost-sensitive learning strategies](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001542) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning)| Information Systems| 2022 | 
 | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | 2023 |
-
+| [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | TMLR | 2023 |
 <!--
 
 **Here are some ideas to get you started:**
