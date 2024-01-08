@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Research
+| Paper | Code |
+|----------|----------|
+|[Predict-then-optimize or predict-and-optimize? An empirical evaluation of cost-sensitive learning strategies](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001542) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning)|
+| [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) |
+
 <!--
 
 **Here are some ideas to get you started:**
