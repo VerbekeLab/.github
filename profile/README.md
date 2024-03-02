@@ -1,7 +1,7 @@
-## Introduction
+# Verbeke Lab
 
 ## Research
-| Article Number | Paper | Code | Published in | Year |
+| Article | Paper | Code | Published in | Year |
 |----------|----------|----------|----------|----------|
 | | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | 2023 |
 | | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | TMLR | 2023 |
