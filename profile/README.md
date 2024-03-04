@@ -5,8 +5,8 @@
 |----------|----------|----------|----------|----------|
 | | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | 2023 |
 | | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | Transactions on Machine Learning Research | 2023 |
-| A.49 | [Claims fraud detection with uncertain labels](https://doi.org/10.1007/s11634-023-00568-0) |  | Advances in Data Analysis and Classification | 2023 |
 | | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | 2023 |
+| A.49 | [Claims fraud detection with uncertain labels](https://doi.org/10.1007/s11634-023-00568-0) |  | Advances in Data Analysis and Classification | 2023 |
 | A.48 | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) || Expert Systems with Applications | 2023 |
 | A.47 | [Robust cost-sensitive classification](https://doi.org/10.1016/j.ijforecast.2022.06.007) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | 2023 |
 | A.46 | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | 2023 |
