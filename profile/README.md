@@ -6,7 +6,7 @@
 | Causal Machine Learning | CML |
 | Credit Risk Management | CRM |
 | Cost Sensitive Learning | CSL |
-| Fraude | FRA |
+| Fraud | FRA |
 
 ## Research by year
 
