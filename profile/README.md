@@ -24,7 +24,7 @@
 | A.50 | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | |
 | A.49 | [Claims fraud detection with uncertain labels](https://doi.org/10.1007/s11634-023-00568-0) |  | Advances in Data Analysis and Classification | FRM |
 | A.48 | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) || Expert Systems with Applications | FRM |
-| A.47 | [Robust cost-sensitive classification](https://doi.org/10.1016/j.ijforecast.2022.06.007) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
+| A.47 | [Robust cost-sensitive classification](https://link.springer.com/article/10.1007/s11634-022-00533-3) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
 | A.46 | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | |
 | A.45 | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) || International Journal of Production Economics | CML |
 | A.44 | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) || European Journal of Operational Research | CML |
