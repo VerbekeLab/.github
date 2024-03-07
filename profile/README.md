@@ -16,9 +16,10 @@
 
 | Article | Paper | Code | Published in | Topic |
 |----------|----------|----------|----------|----------|
-| | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | |
-| | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | Transactions on Machine Learning Research | |
-| | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | |
+| CP.09 | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | |
+| A.52 | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | Transactions on Machine Learning Research | |
+| A.51 | [Explainable Analytics in Operational Research: Methods, Applications and an Agenda for Future Research](https://doi.org/10.1016/j.ejor.2023.09.026) |  | European Journal of Operational Research | 2023 |
+| A.50 | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | |
 | A.49 | [Claims fraud detection with uncertain labels](https://doi.org/10.1007/s11634-023-00568-0) |  | Advances in Data Analysis and Classification | FRA |
 | A.48 | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) || Expert Systems with Applications | FRA |
 | A.47 | [Robust cost-sensitive classification](https://doi.org/10.1016/j.ijforecast.2022.06.007) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
