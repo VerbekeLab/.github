@@ -15,7 +15,7 @@
     <h2>2023</h2>
 </div>
 
-| Article | Paper | Code | Published in | Topic |
+| Article | Paper | Code | Outlet | Topic |
 |----------|----------|----------|----------|----------|
 | CP.10 | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | International Conference on Machine Learning | CML |
 | CP.09 | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | CML |
@@ -24,7 +24,7 @@
 | A.51 | [Explainable Analytics in Operational Research: Methods, Applications and an Agenda for Future Research](https://doi.org/10.1016/j.ejor.2023.09.026) |  | European Journal of Operational Research | MLDM |
 | A.50 | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167923623002269) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning) | Decision Support Systems | CSL |
 | A.49 | [Claims fraud detection with uncertain labels](https://doi.org/10.1007/s11634-023-00568-0) |  | Advances in Data Analysis and Classification | FRM |
-| A.48 | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) || Expert Systems with Applications | FRM |
+| A.48 | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) | [Data](https://github.com/VerbekeLab/FraudLiteratureDB.git) | Expert Systems with Applications | FRM |
 | A.47 | [Robust cost-sensitive classification](https://link.springer.com/article/10.1007/s11634-022-00533-3) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
 | A.46 | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | MLDM |
 | A.45 | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) || International Journal of Production Economics | CML |
@@ -40,7 +40,7 @@
 |----------|----------|----------|----------|----------|
 | A.43 | [Machine learning methods for short-term Probability of Default A comparison of classification, regression and ranking methods](https://doi.org/10.1080/01605682.2020.1865847) || Journal of the Operational Research Society | FRM |
 | A.42 | [HydaLearn: Highly Dynamic Task Weighting for Multi-task Learning with Auxiliary Tasks](https://doi.org/10.1007/s10489-022-03695-x) || Applied Intelligence | MLDM |
-| A.41 | [Individual treatment effect optimisation in dynamic environments](https://doi.org/10.1515/jci-2020-0009) || Journal of Causal Inference | CML |
+| A.41 | [Individual treatment effect optimisation in dynamic environments](https://doi.org/10.1515/jci-2020-0009) | [Code](https://github.com/VerbekeLab/u-cmab.git) | Journal of Causal Inference | CML |
 | A.40 | [Learning 2 Rank for uplift modeling](https://doi.org/10.1109/TKDE.2020.3048510) |  | IEEE Transactions on Knowledge and Data Engineering | CML |
 | A.39 | [Data misrepresentation detection for insurance underwriting fraud prevention](https://doi.org/10.1016/j.dss.2022.113798) |  | Decision Support Systems | FRM |
 | A.38 | [Cost-sensitive learning for profit-driven credit scoring](https://doi.org/10.1080/01605682.2020.1843975) |  | Journal of the Operational Research Society | CSL |
