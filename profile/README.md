@@ -17,7 +17,9 @@
 
 | Article | Paper | Code | Outlet | Topic |
 |----------|----------|----------|----------|----------|
-| CP.10 | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | International Conference on Machine Learning | CML |
+| CP.10 | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | Lecture Notes in Business Information Processing![image](https://github.com/VerbekeLab/.github/assets/76776933/61904a40-cff5-4e9f-ac9a-ef7fef60bdfd)
+![Uploading image.png…]()
+ | CML |
 | CP.09 | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | CML |
 | CP.08 | [Client Recruitment for Federated Learning in ICU Length of Stay Prediction](https://arxiv.org/abs/2304.14663) | [Code](https://github.com/VerbekeLab/eicu-cl-recr.git) | International Conference on e-Science | MLDM |
 | A.52 | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | Transactions on Machine Learning Research | CML |
