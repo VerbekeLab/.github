@@ -15,7 +15,7 @@
     <h2>2023</h2>
 </div>
 
-| Article | Paper | Code | Outlet | Topic |
+| Article | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | CP.10 | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | Lecture Notes in Business Information Processing | CML |
 | CP.09 | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | CML |
@@ -36,7 +36,7 @@
     <h2>2022</h2>
 </div>
 
-| Article | Paper | Code | Published in | Topic |
+| Article | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | A.43 | [Machine learning methods for short-term Probability of Default A comparison of classification, regression and ranking methods](https://doi.org/10.1080/01605682.2020.1865847) || Journal of the Operational Research Society | FRM |
 | A.42 | [HydaLearn: Highly Dynamic Task Weighting for Multi-task Learning with Auxiliary Tasks](https://doi.org/10.1007/s10489-022-03695-x) || Applied Intelligence | MLDM |
@@ -55,7 +55,7 @@
     <h2>2021</h2>
 </div>
 
-| Article | Paper | Code | Published in | Topic |
+| Article | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | A.33 | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
 | A.32 | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) |  | Journal of Transportation Safety and Security | MLDM |
@@ -70,7 +70,7 @@
     <h2>2020</h2>
 </div>
 
-| Article | Paper | Code | Published in | Topic |
+| Article | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | A.27 | [Auto-encoders for strategic decision support](https://doi.org/10.1016/j.dss.2020.113422) |  | Decision Support Systems | MLDM |
 | A.26 | [Uplift Modeling for Preventing Student Dropout in Higher Education](https://doi.org/10.1016/j.dss.2020.113320) |  | Decision Support Systems | CML |
