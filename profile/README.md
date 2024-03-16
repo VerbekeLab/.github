@@ -43,7 +43,7 @@
 | A.41 | [Individual treatment effect optimisation in dynamic environments](https://doi.org/10.1515/jci-2020-0009) | [Code](https://github.com/VerbekeLab/u-cmab.git) | Journal of Causal Inference | CML |
 | A.40 | [Learning 2 Rank for uplift modeling](https://doi.org/10.1109/TKDE.2020.3048510) |  | IEEE Transactions on Knowledge and Data Engineering | CML |
 | A.39 | [Data misrepresentation detection for insurance underwriting fraud prevention](https://doi.org/10.1016/j.dss.2022.113798) |  | Decision Support Systems | FRM |
-| A.38 | [Cost-sensitive learning for profit-driven credit scoring](https://doi.org/10.1080/01605682.2020.1843975) |  | Journal of the Operational Research Society | CSL |
+| A.38 | [Cost-sensitive learning for profit-driven credit scoring](https://doi.org/10.1080/01605682.2020.1843975) | [Data](https://github.com/VerbekeLab/data-csl-pdcs.git) | Journal of the Operational Research Society | CSL |
 | A.37 | [Predict-then-optimize or predict-and-optimize? An empirical evaluation of cost-sensitive learning strategies](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001542) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning)| Information Systems| CSL FRM |
 | A.36 | [Cost-sensitive ensemble learning: a unifying framework](https://doi.org/10.1007/s10618-021-00790-4) |  | Data Mining and Knowledge Discovery | CSL |
 | A.35 | [Instance-Dependent Cost-Sensitive Learning for Detecting Transfer Fraud Using Lasso-Regularized Logistic Regression and Gradient Boosted Decision Trees](https://doi.org/10.1016/j.ejor.2021.05.028) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) | European Journal of Operational Research | CSL |
