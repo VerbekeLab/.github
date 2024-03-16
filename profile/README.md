@@ -58,7 +58,7 @@
 | Article | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | A.33 | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
-| A.32 | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) |  | Journal of Transportation Safety and Security | MLDM |
+| A.32 | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/atn-na.git) | Journal of Transportation Safety and Security | MLDM |
 | A.31 | [Profit-driven Churn Prediction for the Mutual Fund Industry: a Multi-segment Approach](https://www.sciencedirect.com/science/article/pii/S0305048320307349) |  | Omega | CSL |
 | A.30 | [Redefining Profit Metrics for boosting Student Retention in Higher Education](https://doi.org/10.1016/j.dss.2021.113493) |  | Decision Support Systems | CSL |
 | A.29 | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) |  | Information Sciences | CML CSL |
