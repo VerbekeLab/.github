@@ -31,7 +31,7 @@
 | De Vos S. | [Robust cost-sensitive classification](https://link.springer.com/article/10.1007/s11634-022-00533-3) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
 | Van Belle J. | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | MLDM |
 | Vanderschueren T. | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) || International Journal of Production Economics | CML |
-| Verbeke W. | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) || European Journal of Operational Research | CML |
+| Verbeke W. | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) | [Data](https://github.com/VerbekeLab/data-csl-pdcs.git) | European Journal of Operational Research | CML |
 
 &nbsp;
 
@@ -61,7 +61,7 @@
 | First Author | Paper | Code | Published in | Topic |
 |----------|----------|----------|----------|----------|
 | De Caigny | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
-| Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) |  | Journal of Transportation Safety and Security | MLDM |
+| Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/atn-na.git) | Journal of Transportation Safety and Security | MLDM |
 | Maldonado S. | [Profit-driven Churn Prediction for the Mutual Fund Industry: a Multi-segment Approach](https://www.sciencedirect.com/science/article/pii/S0305048320307349) |  | Omega | CSL |
 | Maldonado S. | [Redefining Profit Metrics for boosting Student Retention in Higher Education](https://doi.org/10.1016/j.dss.2021.113493) |  | Decision Support Systems | CSL |
 | Devriendt F. | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) |  | Information Sciences | CML CSL |
