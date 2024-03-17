@@ -26,10 +26,13 @@
 | A.46 | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | MLDM |
 | A.45 | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) || International Journal of Production Economics | CML |
 | A.44 | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) || European Journal of Operational Research | CML |
+
 &nbsp;
+
 <div align="center">
     <h2>2022</h2>
 </div>
+
 | Article | Paper | Code | Published in | Topic |
 |----------|----------|----------|----------|----------|
 | A.43 | [Machine learning methods for short-term Probability of Default A comparison of classification, regression and ranking methods](https://doi.org/10.1080/01605682.2020.1865847) || Journal of the Operational Research Society | FRM |
@@ -42,10 +45,13 @@
 | A.36 | [Cost-sensitive ensemble learning: a unifying framework](https://doi.org/10.1007/s10618-021-00790-4) |  | Data Mining and Knowledge Discovery | CSL |
 | A.35 | [Instance-Dependent Cost-Sensitive Learning for Detecting Transfer Fraud Using Lasso-Regularized Logistic Regression and Gradient Boosted Decision Trees](https://doi.org/10.1016/j.ejor.2021.05.028) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) | European Journal of Operational Research | CSL |
 | A.34 | [Weight-of-evidence through shrinkage and spline binning for interpretable nonlinear classification](https://doi.org/10.1016/j.asoc.2021.108160) | [Code](https://github.com/VerbekeLab/WOE2.0.git) | Applied Soft Computing | FRM CRM |
+
 &nbsp;
+
 <div align="center">
     <h2>2021</h2>
 </div>
+
 | Article | Paper | Code | Published in | Topic |
 |----------|----------|----------|----------|----------|
 | A.33 | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
@@ -54,10 +60,13 @@
 | A.30 | [Redefining Profit Metrics for boosting Student Retention in Higher Education](https://doi.org/10.1016/j.dss.2021.113493) |  | Decision Support Systems | CSL |
 | A.29 | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) |  | Information Sciences | CML CSL |
 | A.28 | [Using shared sell-through data to forecast wholesaler demand in multi-echelon supply chains](https://doi.org/10.1016/j.ejor.2020.05.059) |  | European Journal of Operational Research | MLDM |
+
 &nbsp;
+
 <div align="center">
     <h2>2020</h2>
 </div>
+
 | Article | Paper | Code | Published in | Topic |
 |----------|----------|----------|----------|----------|
 | A.27 | [Auto-encoders for strategic decision support](https://doi.org/10.1016/j.dss.2020.113422) |  | Decision Support Systems | MLDM |
