@@ -20,7 +20,7 @@
 
 | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
-| Weyntjes H. | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | Lecture Notes in Business Information Processing | CML |
+| Weytjens H. | [Timed Process Interventions: Causal Inference vs. Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-50974-2_19) | [Code](https://github.com/VerbekeLab/TimedProcessInterventions.git) | Lecture Notes in Business Information Processing | CML |
 | Vanderschueren T. | [Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time](https://arxiv.org/abs/2306.04255) | [Code](https://github.com/VerbekeLab/TESAR-CDE) | International Conference on Machine Learning | CML |
 | Scheltjens V. | [Client Recruitment for Federated Learning in ICU Length of Stay Prediction](https://arxiv.org/abs/2304.14663) | [Code](https://github.com/VerbekeLab/eicu-cl-recr.git) | International Conference on e-Science | MLDM |
 | Vanderschueren T. | [NOFLITE: Learning to Predict Individual Treatment Effect Distributions](https://openreview.net/forum?id=EjqopDxLbG) | [Code](https://github.com/VerbekeLab/NOFLITE) | Transactions on Machine Learning Research | CML |
