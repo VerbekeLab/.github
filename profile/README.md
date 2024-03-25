@@ -78,5 +78,5 @@
 | Verboven S. | [Auto-encoders for strategic decision support](https://doi.org/10.1016/j.dss.2020.113422) |  | Decision Support Systems | MLDM |
 | Olaya D. | [Uplift Modeling for Preventing Student Dropout in Higher Education](https://doi.org/10.1016/j.dss.2020.113320) |  | Decision Support Systems | CML |
 | Benoit D. | [Article Commentary: On realizing the utopian potential of big data analytics for maximizing return on marketing investments](https://doi.org/10.1080/0267257X.2020.1739446) |  | Journal of Marketing Management | CSL |
-| Olaya D. | [A survey and benchmarking study of multitreatment uplift modeling](https://doi.org/10.1007/s10618-019-00670-y) | | Data Mining and Knowledge Discovery | CML |
+| Olaya D. | [A survey and benchmarking study of multitreatment uplift modeling](https://doi.org/10.1007/s10618-019-00670-y) | [Code](https://github.com/VerbekeLab/up_dropout.git) | Data Mining and Knowledge Discovery | CML |
 | Decauwer C. | [A Model for Range Estimation and Energy-Efficient Routing of Electric Vehicles in Real-world Conditions](https://doi.org/10.1109/TITS.2019.2918019) |  | IEEE Transactions on Intelligent Transportation Systems | MLDM |
