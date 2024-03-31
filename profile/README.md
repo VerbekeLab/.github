@@ -39,7 +39,7 @@
     <h2>2022</h2>
 </div>
 
-| First Author | Paper | Code | Published in | Topic |
+| First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | Coenen L. | [Machine learning methods for short-term Probability of Default A comparison of classification, regression and ranking methods](https://doi.org/10.1080/01605682.2020.1865847) || Journal of the Operational Research Society | FRM |
 | Verboven S. | [HydaLearn: Highly Dynamic Task Weighting for Multi-task Learning with Auxiliary Tasks](https://doi.org/10.1007/s10489-022-03695-x) || Applied Intelligence | MLDM |
@@ -58,7 +58,7 @@
     <h2>2021</h2>
 </div>
 
-| First Author | Paper | Code | Published in | Topic |
+| First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | De Caigny A. | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
 | Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/atn-na.git) | Journal of Transportation Safety and Security | MLDM |
@@ -73,7 +73,7 @@
     <h2>2020</h2>
 </div>
 
-| First Author | Paper | Code | Published in | Topic |
+| First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | Verboven S. | [Auto-encoders for strategic decision support](https://doi.org/10.1016/j.dss.2020.113422) |  | Decision Support Systems | MLDM |
 | Olaya D. | [Uplift Modeling for Preventing Student Dropout in Higher Education](https://doi.org/10.1016/j.dss.2020.113320) |  | Decision Support Systems | CML |
