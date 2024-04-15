@@ -30,7 +30,7 @@
 | Rickermann C. | [A decade of research on fraud analytics: challenges and methods](https://www.sciencedirect.com/science/article/pii/S0957417423011077) | [Data](https://github.com/VerbekeLab/FraudLiteratureDB.git) | Expert Systems with Applications | FRM |
 | De Vos S. | [Robust cost-sensitive classification](https://link.springer.com/article/10.1007/s11634-022-00533-3) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
 | Van Belle J. | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | MLDM |
-| Vanderschueren T. | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) || International Journal of Production Economics | CML |
+| Vanderschueren T. | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) | [Code](https://github.com/VerbekeLab/PrescriptiveMaintenance.git) | International Journal of Production Economics | CML |
 | Verbeke W. | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) | [Data](https://github.com/VerbekeLab/data-csl-pdcs.git) | European Journal of Operational Research | CML |
 
 &nbsp;
