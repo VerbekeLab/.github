@@ -61,7 +61,7 @@
 | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | De Caigny A. | [Uplift modeling and its implications for B2B customer churn prediction: A segmentation-based modeling approach](https://doi.org/10.1016/j.indmarman.2021.10.001) |  | Industrial Marketing Management | CML |
-| Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/atn-na.git) | Journal of Transportation Safety and Security | MLDM |
+| Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/study-of-U.S.-domestic-ATN.git) | Journal of Transportation Safety and Security | MLDM |
 | Maldonado S. | [Profit-driven Churn Prediction for the Mutual Fund Industry: a Multi-segment Approach](https://www.sciencedirect.com/science/article/pii/S0305048320307349) |  | Omega | CSL |
 | Maldonado S. | [Redefining Profit Metrics for boosting Student Retention in Higher Education](https://doi.org/10.1016/j.dss.2021.113493) |  | Decision Support Systems | CSL |
 | Devriendt F. | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) |  | Information Sciences | CML CSL |
