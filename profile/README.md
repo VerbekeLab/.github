@@ -42,7 +42,7 @@
 | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | Coenen L. | [Machine learning methods for short-term Probability of Default A comparison of classification, regression and ranking methods](https://doi.org/10.1080/01605682.2020.1865847) || Journal of the Operational Research Society | FRM |
-| Verboven S. | [HydaLearn: Highly Dynamic Task Weighting for Multi-task Learning with Auxiliary Tasks](https://doi.org/10.1007/s10489-022-03695-x) || Applied Intelligence | MLDM |
+| Verboven S. | [HydaLearn: Highly Dynamic Task Weighting for Multi-task Learning with Auxiliary Tasks](https://doi.org/10.1007/s10489-022-03695-x) |[Code](https://github.com/VerbekeLab/HydaLearn.git)| Applied Intelligence | MLDM |
 | Berrevoets J. | [Individual treatment effect optimisation in dynamic environments](https://doi.org/10.1515/jci-2020-0009) | [Code](https://github.com/VerbekeLab/u-cmab.git) | Journal of Causal Inference | CML |
 | Devriendt F. | [Learning 2 Rank for uplift modeling](https://doi.org/10.1109/TKDE.2020.3048510) |  | IEEE Transactions on Knowledge and Data Engineering | CML |
 | Vandervorst F. | [Data misrepresentation detection for insurance underwriting fraud prevention](https://doi.org/10.1016/j.dss.2022.113798) |  | Decision Support Systems | FRM |
