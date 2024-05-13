@@ -64,7 +64,7 @@
 | Siozos-Rousoulis L. | [A study of the U.S. domestic air transportation network: Temporal evolution of network topology and robustness from 2001 to 2016](https://link.springer.com/article/10.1007/s12198-020-00227-x) | [Code](https://github.com/VerbekeLab/study-of-U.S.-domestic-ATN.git) | Journal of Transportation Safety and Security | MLDM |
 | Maldonado S. | [Profit-driven Churn Prediction for the Mutual Fund Industry: a Multi-segment Approach](https://www.sciencedirect.com/science/article/pii/S0305048320307349) |  | Omega | CSL |
 | Maldonado S. | [Redefining Profit Metrics for boosting Student Retention in Higher Education](https://doi.org/10.1016/j.dss.2021.113493) |  | Decision Support Systems | CSL |
-| Devriendt F. | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) |  | Information Sciences | CML CSL |
+| Devriendt F. | [Why you should stop predicting customer churn and start using uplift modeling](https://doi.org/10.1016/j.ins.2019.12.075) | [Code](https://github.com/VerbekeLab/predicting-customer-churn-vs-uplift-modeling.git) | Information Sciences | CML CSL |
 | Van Belle J. | [Using shared sell-through data to forecast wholesaler demand in multi-echelon supply chains](https://doi.org/10.1016/j.ejor.2020.05.059) |  | European Journal of Operational Research | MLDM |
 
 &nbsp;
