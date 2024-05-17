@@ -15,6 +15,17 @@
 
 ## Research by year
 <div align="center">
+    <h2>2024</h2>
+</div>
+
+| First Author | Paper | Code | Venue | Topic |
+|----------|----------|----------|----------|----------|
+| Deprez B. | [Network analytics for insurance fraud detection: a critical case study](https://link.springer.com/article/10.1007/s13385-024-00384-6) | [Code](https://github.com/VerbekeLab/NetworkFraud_BiRank_M2V_SAGE) | European Actuarial Journal | FRM |
+
+&nbsp;
+
+
+<div align="center">
     <h2>2023</h2>
 </div>
 
