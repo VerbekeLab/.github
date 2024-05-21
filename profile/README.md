@@ -44,7 +44,7 @@
 | De Vos S. | [Robust cost-sensitive classification](https://link.springer.com/article/10.1007/s11634-022-00533-3) | [Code](https://github.com/VerbekeLab/Robust-IDCS.git) | Advances in Data Analysis and Classification | CSL |
 | Van Belle J. | [Improving forecast stability using deep learning](https://www.sciencedirect.com/science/article/pii/S016920702200098X) | [Code](https://github.com/VerbekeLab/n-beats-s) | International Journal of Forecasting | MLDM |
 | Vanderschueren T. | [Optimizing the preventive maintenance frequency with causal machine learning](https://doi.org/10.1016/j.ijpe.2023.108798) | [Code](https://github.com/VerbekeLab/PrescriptiveMaintenance.git) | International Journal of Production Economics | CML |
-| Verbeke W. | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) | [Data](https://github.com/VerbekeLab/data-csl-pdcs.git) | European Journal of Operational Research | CML |
+| Verbeke W. | [To do or not to do: Cost-sensitive causal decision-making](https://doi.org/10.1016/j.ejor.2022.03.049) |[Code](https://github.com/VerbekeLab/Cost-sensitive-causal-decision-making.git)| European Journal of Operational Research | CML |
 
 &nbsp;
 
@@ -59,7 +59,7 @@
 | Berrevoets J. | [Individual treatment effect optimisation in dynamic environments](https://doi.org/10.1515/jci-2020-0009) | [Code](https://github.com/VerbekeLab/u-cmab.git) | Journal of Causal Inference | CML |
 | Devriendt F. | [Learning 2 Rank for uplift modeling](https://doi.org/10.1109/TKDE.2020.3048510) |  | IEEE Transactions on Knowledge and Data Engineering | CML |
 | Vandervorst F. | [Data misrepresentation detection for insurance underwriting fraud prevention](https://doi.org/10.1016/j.dss.2022.113798) |  | Decision Support Systems | FRM |
-| Petrides G. | [Cost-sensitive learning for profit-driven credit scoring](https://doi.org/10.1080/01605682.2020.1843975) |  | Journal of the Operational Research Society | CSL |
+| Petrides G. | [Cost-sensitive learning for profit-driven credit scoring](https://doi.org/10.1080/01605682.2020.1843975) | [Data](https://github.com/VerbekeLab/data-csl-pdcs.git) | Journal of the Operational Research Society | CSL |
 | Vanderschueren T. | [Predict-then-optimize or predict-and-optimize? An empirical evaluation of cost-sensitive learning strategies](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001542) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning)| Information Systems| CSL FRM |
 | Petrides G. | [Cost-sensitive ensemble learning: a unifying framework](https://doi.org/10.1007/s10618-021-00790-4) |  | Data Mining and Knowledge Discovery | CSL |
 | Hoppner S. | [Instance-Dependent Cost-Sensitive Learning for Detecting Transfer Fraud Using Lasso-Regularized Logistic Regression and Gradient Boosted Decision Trees](https://doi.org/10.1016/j.ejor.2021.05.028) | [Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) | European Journal of Operational Research | CSL |
