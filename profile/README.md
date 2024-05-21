@@ -22,7 +22,7 @@
 |----------|----------|----------|----------|----------|
 | Deprez B. | [Network analytics for insurance fraud detection: a critical case study](https://link.springer.com/article/10.1007/s13385-024-00384-6) | [Code](https://github.com/VerbekeLab/NetworkFraud_BiRank_M2V_SAGE) |European Actuarial Journal | FRM |
 | De Vos S. | [Data-driven internal mobility: getting the job done with similarity regularization](https://doi.org/10.1016/j.knosys.2024.111824) | [Code](https://github.com/VerbekeLab/-RecSys_SR.git) |Knowledge Based Systems | |
-| Vanderschueren T. | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://doi.org/10.1016/j.dss.2023.114151) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) |Decision Support Systems | CSL |
+| Vanderschueren T. | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://doi.org/10.1016/j.dss.2023.114151) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) |Decision Support Systems |CSL |
 
 &nbsp;
 
