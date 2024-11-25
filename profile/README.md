@@ -20,7 +20,7 @@
 
 | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
-| Van Belle J. | [Probabilistic forecasting with modified N-BEATS networks ](https://doi.org/10.1109/TNNLS.2024.3450832 ) |[Code](https://github.com/VerbekeLab/N-N-BEATS) |IEEE Transactions on Neural Learning Systems | MLDM |
+| Van Belle J. |[Probabilistic forecasting with modified N-BEATS networks ](https://doi.org/10.1109/TNNLS.2024.3450832 ) |[Code](https://github.com/VerbekeLab/N-N-BEATS) |IEEE Transactions on Neural Learning Systems | MLDM |
 | Deprez B. | [Network analytics for insurance fraud detection: a critical case study](https://link.springer.com/article/10.1007/s13385-024-00384-6) | [Code](https://github.com/VerbekeLab/NetworkFraud_BiRank_M2V_SAGE_c) |European Actuarial Journal | FRM |
 | De Vos S. | [Data-driven internal mobility: getting the job done with similarity regularization](https://doi.org/10.1016/j.knosys.2024.111824) | [Code](https://github.com/VerbekeLab/-RecSys_SR.git) |Knowledge Based Systems |MLDM |
 | Vanderschueren T. | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://doi.org/10.1016/j.dss.2023.114151) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) |Decision Support Systems |CSL |
