@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## Research by year
+## Research
 
 | Year | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|----------|
