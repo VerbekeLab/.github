@@ -21,8 +21,8 @@
 | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|
 | Van Belle J. |[Probabilistic forecasting with modified N-BEATS networks ](https://doi.org/10.1109/TNNLS.2024.3450832 ) |[Code](https://github.com/VerbekeLab/N-N-BEATS) |IEEE Transactions on Neural Learning Systems | MLDM |
-| Reusens M. | [A review and experimental evaluation of the state-of-the-art in text classification](https://doi.org/10.1016/j.eswa.2024.124302) | [Code](https://github.com/VerbekeLab/text-classification-benchmark.git) | Expert Systems with Applications | MLDM |
 | De Vos S. |[Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art](https://doi.org/10.1007/s12599-024-00898-z) | [Code](https://github.com/VerbekeLab/turnover_prediction.git) | Business Information Systems Engineering | MLDM |
+| Reusens M. | [A review and experimental evaluation of the state-of-the-art in text classification](https://doi.org/10.1016/j.eswa.2024.124302) | [Code](https://github.com/VerbekeLab/text-classification-benchmark.git) | Expert Systems with Applications | MLDM |
 | Deprez B. | [Network analytics for insurance fraud detection: a critical case study](https://link.springer.com/article/10.1007/s13385-024-00384-6) | [Code](https://github.com/VerbekeLab/NetworkFraud_BiRank_M2V_SAGE_c) |European Actuarial Journal | FRM |
 | De Vos S. | [Data-driven internal mobility: getting the job done with similarity regularization](https://doi.org/10.1016/j.knosys.2024.111824) | [Code](https://github.com/VerbekeLab/-RecSys_SR.git) |Knowledge Based Systems |MLDM |
 | Vanderschueren T. | [A new perspective on classification: Optimally allocating limited resources to uncertain tasks](https://doi.org/10.1016/j.dss.2023.114151) |[Code](https://github.com/VerbekeLab/CostSensitiveLearning.git) |Decision Support Systems |CSL |
