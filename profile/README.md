@@ -17,6 +17,7 @@
 
 | Year | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|----------|
+| 2025 |Rickermann C. |[Can causal machine learning reveal individual bid responses of bank customers? — A study on mortgage loan applications in Belgium](https://doi.org/10.1016/j.dss.2024.114378) |[Code](https://github.com/VerbekeLab/Causal-Pricing.git) |Decision Support Systems |CML
 | 2024 | Van Belle J. |[Probabilistic forecasting with modified N-BEATS networks ](https://doi.org/10.1109/TNNLS.2024.3450832 ) |[Code](https://github.com/VerbekeLab/N-N-BEATS) |IEEE Transactions on Neural Learning Systems | MLDM |
 || De Vos S. |[Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art](https://doi.org/10.1007/s12599-024-00898-z) | [Code](https://github.com/VerbekeLab/turnover_prediction.git) | Business Information Systems Engineering | MLDM |
 || Reusens M. | [A review and experimental evaluation of the state-of-the-art in text classification](https://doi.org/10.1016/j.eswa.2024.124302) | [Code](https://github.com/VerbekeLab/text-classification-benchmark.git) | Expert Systems with Applications | MLDM |
