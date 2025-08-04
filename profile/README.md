@@ -18,7 +18,8 @@
 
 | Year | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|----------|
-|2025|Rickermann C.|Using representation balancing to learn conditional-average dose responses from clustered data|[Code](https://github.com/VerbekeLab/CBRNet.git)|Transactions on Machine Learning Research| CML |
+|2025|Vanderschueren T.|AutoCATE: End-to-End, Automated Treatment Effect Estimation|[Code](https://github.com/VerbekeLab/AutoCATE.git)|Proceedings of Machine Learning Research|CML|
+||Rickermann C.|Using representation balancing to learn conditional-average dose responses from clustered data|[Code](https://github.com/VerbekeLab/CBRNet.git)|Transactions on Machine Learning Research| CML |
 ||Verbeken B. |[Uplift Model Evaluation with Ordinal Dominance Graphs](https://www.jmlr.org/papers/v26/22-1455.html) | [Code](https://github.com/VerbekeLab/uplift-metrics-simulation.git) | Journal of Machine Learning Research |CML |
 ||Rickermann C. |[Can causal machine learning reveal individual bid responses of bank customers? — A study on mortgage loan applications in Belgium](https://doi.org/10.1016/j.dss.2024.114378) |[Code](https://github.com/VerbekeLab/Causal-Pricing.git) |Decision Support Systems |CML
 | 2024 | Van Belle J. |[Probabilistic forecasting with modified N-BEATS networks ](https://doi.org/10.1109/TNNLS.2024.3450832 ) |[Code](https://github.com/VerbekeLab/N-N-BEATS) |IEEE Transactions on Neural Learning Systems | MLDM |
