@@ -18,6 +18,7 @@
 
 | Year | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|----------|
+|2026|Rickermann C.|A Data-Centric Decomposition of Estimator Performance in Continuous Treatment Effect Estimation|[Code](https://github.com/VerbekeLab/CADR-performance-deco.git)||CML|
 |2025| Deprez B.|[Network Analytics for Anti-money Laundering—A Systematic Literature Review and Experimental Evaluation](https://doi.org/10.1287/ijds.2024.0042)|[Code](https://github.com/B-Deprez/AML_Network)|INFORMS Journal on Data Science|FRM|
 ||Caljon D.|[Optimizing Treatment Allocation in the Presence of Interference](https://doi.org/10.1016/j.ejor.2025.09.015)|[Code](https://github.com/VerbekeLab/OTAPI.git)|European Journal of Operational Research|CML|
 ||Vanderschueren T.|[AutoCATE: End-to-End, Automated Treatment Effect Estimation](https://proceedings.mlr.press/v267/vanderschueren25a.html)|[Code](https://github.com/VerbekeLab/AutoCATE.git)|Proceedings of Machine Learning Research|CML|
