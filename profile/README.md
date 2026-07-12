@@ -20,7 +20,7 @@
 |----------|----------|----------|----------|----------|----------|
 |2025|Caljon D.|[Optimizing Treatment Allocation in the Presence of Interference](https://doi.org/10.1016/j.ejor.2025.09.015)|[Code](https://github.com/VerbekeLab/OTAPI.git)|European Journal of Operational Research|CML|
 || Deprez B.|[Network Analytics for Anti-money Laundering—A Systematic Literature Review and Experimental Evaluation](https://doi.org/10.1287/ijds.2024.0042)|[Code](https://github.com/B-Deprez/AML_Network)|INFORMS Journal on Data Science|FRM|
-||Vanderschueren T.|AutoCATE: End-to-End, Automated Treatment Effect Estimation|[Code](https://github.com/VerbekeLab/AutoCATE.git)|Proceedings of Machine Learning Research|CML|
+||Vanderschueren T.|[AutoCATE: End-to-End, Automated Treatment Effect Estimation](https://proceedings.mlr.press/v267/vanderschueren25a.html)|[Code](https://github.com/VerbekeLab/AutoCATE.git)|Proceedings of Machine Learning Research|CML|
 || Deprez B.|[Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review](https://doi.org/10.1002/wics.70040)|[Code](https://github.com/VerbekeLab/BeGin)|WIREs Computational Statistics Journal|FRM|
 ||Caljon D.|[Using adaptive loss balancing to boost improvements in forecast stability](https://doi.org/10.1016/j.ijforecast.2025.07.002)|[Code](https://github.com/VerbekeLab/Dynamic-N-BEATS-S.git)|International Journal of Forecasting|MLDM|
 ||Rickermann C.|Using representation balancing to learn conditional-average dose responses from clustered data|[Code](https://github.com/VerbekeLab/CBRNet.git)|Transactions on Machine Learning Research| CML |
