@@ -19,6 +19,7 @@
 | Year | First Author | Paper | Code | Venue | Topic |
 |----------|----------|----------|----------|----------|----------|
 |2026|Rickermann C.|A Data-Centric Decomposition of Estimator Performance in Continuous Treatment Effect Estimation|[Code](https://github.com/VerbekeLab/CADR-performance-deco.git)||CML|
+||Vandervorst F.| [Inductive inference of gradient-boosted decision trees on graphs for insurance fraud detection](https://doi.org/10.1007/s10618-026-01249-0) | [Code](https://github.com/VerbekeLab/GraphGBDT) | Data Mining and Knowledge Discovery | FRM |
 |2025| Deprez B.|[Network Analytics for Anti-money Laundering—A Systematic Literature Review and Experimental Evaluation](https://doi.org/10.1287/ijds.2024.0042)|[Code](https://github.com/B-Deprez/AML_Network)|INFORMS Journal on Data Science|FRM|
 ||De Vos S.|[Uplift modeling with continuous treatments: a predict-then-optimize approach](https://doi.org/10.1016/j.ejor.2025.10.025)|[Code](https://github.com/VerbekeLab/UMCT.git)|European Journal of Operational Research|CML|
 ||Caljon D.|[Optimizing Treatment Allocation in the Presence of Interference](https://doi.org/10.1016/j.ejor.2025.09.015)|[Code](https://github.com/VerbekeLab/OTAPI.git)|European Journal of Operational Research|CML|
